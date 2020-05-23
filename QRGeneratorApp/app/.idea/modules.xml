@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../QRGenearator/QRGenearator.iml" filepath="$PROJECT_DIR$/../QRGenearator/QRGenearator.iml" group="QRGenerator-master/QRGenearator" />
+      <module fileurl="file://$PROJECT_DIR$/../QRGenerator-master.iml" filepath="$PROJECT_DIR$/../QRGenerator-master.iml" group="QRGenerator-master" />
+      <module fileurl="file://$PROJECT_DIR$/app.iml" filepath="$PROJECT_DIR$/app.iml" group="QRGenerator-master/app" />
+    </modules>
+  </component>
+</project>
